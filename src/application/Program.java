@@ -1,6 +1,6 @@
 package application;
-import application.model.entites.Account;
-import application.model.exceptions.DomainExceptions;
+import model.entites.Account;
+import model.exceptions.DomainExceptions;
 
 import java.util.Scanner;
 

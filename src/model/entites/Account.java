@@ -1,6 +1,6 @@
-package application.model.entites;
+package model.entites;
 
-import application.model.exceptions.DomainExceptions;
+import model.exceptions.DomainExceptions;
 
 public class Account {
     private Integer number;
